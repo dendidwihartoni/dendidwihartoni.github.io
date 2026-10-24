@@ -1,10 +1,10 @@
 module.exports = {
-  content: ["./**/*.html"],
+  content: ["./*/.html"],
   theme: {
     extend: {
-      fontFamily: {
-        Zelda: ['Zelda', 'sans-serif']
-     }
+        fontfamily: {
+            Zelda: ['Zelda', 'sans-serif']
+        },
     },
   },
   plugins: [],
